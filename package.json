@@ -1,0 +1,20 @@
+{
+  "name": "runtime-jade",
+  "version": "0.0.0",
+  "description": "Just the runtime part of jade",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "htmlparser2": "~3.2.3"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/runtime-jade.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
