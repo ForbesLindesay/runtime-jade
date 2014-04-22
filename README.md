@@ -2,9 +2,9 @@
 
   Just the runtime part of jade.  If you compile jade templates at development time and then deploy the compiled source, you probably only need this module as a runtime dependency.  This is a **huge** win for download size.
 
-  [![Build Status](https://travis-ci.org/ForbesLindesay/runtime-jade.png?branch=master)](https://travis-ci.org/ForbesLindesay/runtime-jade)
-  [![Dependency Status](https://gemnasium.com/ForbesLindesay/runtime-jade.png)](https://gemnasium.com/ForbesLindesay/runtime-jade)
-  [![NPM version](https://badge.fury.io/js/runtime-jade.png)](http://badge.fury.io/js/runtime-jade)
+  [![Build Status](https://img.shields.io/travis/ForbesLindesay/runtime-jade/master.svg)](https://travis-ci.org/ForbesLindesay/runtime-jade)
+  [![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/runtime-jade.svg)](https://gemnasium.com/ForbesLindesay/runtime-jade)
+  [![NPM version](https://img.shields.io/npm/v/runtime-jade.svg)](http://badge.fury.io/js/runtime-jade)
 
 ## Installation
 
