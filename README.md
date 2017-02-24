@@ -1,5 +1,7 @@
 # runtime-jade
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/runtime-jade.svg)](https://greenkeeper.io/)
+
   Just the runtime part of jade.  If you compile jade templates at development time and then deploy the compiled source, you probably only need this module as a runtime dependency.  This is a **huge** win for download size.
 
   [![Build Status](https://img.shields.io/travis/ForbesLindesay/runtime-jade/master.svg)](https://travis-ci.org/ForbesLindesay/runtime-jade)

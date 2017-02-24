@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "htmlparser2": "~3.2.3"
+    "htmlparser2": "~3.9.2"
   },
   "scripts": {
     "test": "mocha -R spec"
